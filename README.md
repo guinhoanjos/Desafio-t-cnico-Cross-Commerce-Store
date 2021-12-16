@@ -1,1 +1,1 @@
-# Desafio-t-cnico-Cross-Commerce-Store
+# Desafio-tecnico-Cross-Commerce-Store
