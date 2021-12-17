@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/guinhoanjos/Desafio-tecnico-Cross-Commerce-Store/issues"
   },
-  "homepage": "https://github.com/guinhoanjos/Desafio-tecnico-Cross-Commerce-Store#readme"
+  "homepage": "https://github.com/guinhoanjos/Desafio-tecnico-Cross-Commerce-Store#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
