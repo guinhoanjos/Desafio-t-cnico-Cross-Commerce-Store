@@ -1,4 +1,3 @@
-const data = require('./data')
 function menorNumero(data){
   let menorNumero = data[0];
   data.forEach((numero) =>{
@@ -27,5 +26,3 @@ function ordenarNumero(data){
 }
 
 module.exports = ordenarNumero
-console.log(ordenarNumero(data))
-console.log({sort: data.sort()})
