@@ -22,3 +22,8 @@ O objetivo dele é buscar arrays de números em varias páginas de uma api e ret
 #### Métodos
 * Get "/"  (retorna o resultado das 30 primeiras paginas)
 *  Get "/:number"  (retorna o resultado das 30 paginas apartir da query)
+
+
+#### Tests
+
+* Use o comando "npm test" para teste unitário da função de ordenar números
