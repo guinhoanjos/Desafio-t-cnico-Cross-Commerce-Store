@@ -18,7 +18,7 @@ async function getTodosNumeros(inicialPage){
   let pageIndex = 1
   while(temNumeros){
     let numeros = await getNumeros(inicialPage + pageIndex)
-    if(!numeros.numbers|| pageIndex === 30 ){
+    if(!numeros.numbers || pageIndex === 30 ){
       temNumeros = false
     } else{
       todosNumeros = [...todosNumeros, ...numeros.numbers]    
