@@ -1,4 +1,4 @@
-const ordenarFunction = require('../../funcao organizar em ordem numerica/sort')
+const ordenarFunction = require('../helpers/sort')
 
 
 
